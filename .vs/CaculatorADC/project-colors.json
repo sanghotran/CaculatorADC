@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da3ad41c-c5c8-49cc-a796-e353d7ca3eb2": {
+      "ProjectGuid": "da3ad41c-c5c8-49cc-a796-e353d7ca3eb2",
+      "DisplayName": "CaculatorADC",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

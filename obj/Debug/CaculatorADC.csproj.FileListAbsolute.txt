@@ -1,0 +1,10 @@
+E:\Project\Program\C_Sharp\CaculatorADC\bin\Debug\CaculatorADC.exe.config
+E:\Project\Program\C_Sharp\CaculatorADC\bin\Debug\CaculatorADC.exe
+E:\Project\Program\C_Sharp\CaculatorADC\bin\Debug\CaculatorADC.pdb
+E:\Project\Program\C_Sharp\CaculatorADC\obj\Debug\CaculatorADC.csproj.SuggestedBindingRedirects.cache
+E:\Project\Program\C_Sharp\CaculatorADC\obj\Debug\CaculatorADC.frm_ADC.resources
+E:\Project\Program\C_Sharp\CaculatorADC\obj\Debug\CaculatorADC.Properties.Resources.resources
+E:\Project\Program\C_Sharp\CaculatorADC\obj\Debug\CaculatorADC.csproj.GenerateResource.cache
+E:\Project\Program\C_Sharp\CaculatorADC\obj\Debug\CaculatorADC.csproj.CoreCompileInputs.cache
+E:\Project\Program\C_Sharp\CaculatorADC\obj\Debug\CaculatorADC.exe
+E:\Project\Program\C_Sharp\CaculatorADC\obj\Debug\CaculatorADC.pdb
